@@ -2,6 +2,9 @@
 title: Template Page
 ---
 
+## Hello World
+This is a test.
+
 ::: {.callout-tip}
 #### Learning Objectives
 
